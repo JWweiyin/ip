@@ -142,14 +142,15 @@ Exits the program. Have a productive day!<br>
 Format: `bye` <br>
 
 ## Command Summary
-Action | Format, Examples
--------|-----------------
-Add todo | `todo TASKNAME` <br> e.g.,`todo Read Book`
-Add deadline | `deadline TASKNAME /by YYYY/MM/DD HHMM`<br> e.g., `deadline Return Book /by 2021/10/01 1200`
-Add event | `event TASKNAME /at YYYY/MM/DD HHMM` <br> e.g., `event Book Club /at 2021/09/25 1630`
-List | `list`
-Mark as done | `done INDEX` <br> e.g., `done 2`
-Delete | `delete INDEX`<br> e.g., `delete 3`
-Find | `find KEYWORD [MORE_KEYWORDS]` <br> e.g., `find book`
-Filter | `filter YYYY/MM/DD` <br> e.g., `filter 2021/09/25`
-Exit | `bye`
+
+|Action | Format, Examples|
+|---|---|
+|Add todo | `todo TASKNAME` <br> e.g.,`todo Read Book`|
+|Add deadline | `deadline TASKNAME /by YYYY/MM/DD HHMM`<br> e.g., `deadline Return Book /by 2021/10/01 1200`|
+|Add event | `event TASKNAME /at YYYY/MM/DD HHMM` <br> e.g., `event Book Club /at 2021/09/25 1630`|
+|List | `list`|
+|Mark as done | `done INDEX` <br> e.g., `done 2`|
+|Delete | `delete INDEX`<br> e.g., `delete 3`|
+|Find | `find KEYWORD [MORE_KEYWORDS]` <br> e.g., `find book`|
+|Filter | `filter YYYY/MM/DD` <br> e.g., `filter 2021/09/25`|
+|Exit | `bye`|
