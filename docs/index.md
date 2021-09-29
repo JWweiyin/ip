@@ -1,13 +1,13 @@
 # Duke 
 
-**Duke** is a desktop app for managing **todo tasks, deadlines, and events**, optimised for use via a Command Line Interface (CLI).
+**Duke** is a desktop app that helps you manage **todo tasks, deadlines, and events**, optimised for use via a Command Line Interface (CLI).
 
 ## Quick Start
 
 Prerequisites: JDK 11.
 
 1. Ensure you have Java 11 installed on your computer. 
-1. Download the latest `Duke.jar` from [here]().
+1. Download the latest `Duke.jar` from [here](https://github.com/JWweiyin/ip/releases/tag/v0.2).
 1. Copy the file to the folder you want to use as the *home folder* for Duke.
 1. In the terminal, navigate to Duke's *home folder* and run the following command:
    ```
